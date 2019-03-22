@@ -20,6 +20,7 @@ MyBlog-Java人自己的博客平台。基于SpringBoot的Java开源博客系统�
 - SpringMVC
 - SpringSecurity
 - MyBatis
+- MySQL
 - tomcat
 - thymeleaf
 - junit
