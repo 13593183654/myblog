@@ -6,7 +6,13 @@
 
     <groupId>top.point9</groupId>
     <artifactId>blog-v1-base</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>blog-v1-common</module>
+        <module>blog-v1-entity</module>
+        <module>blog-v1-mapper</module>
+    </modules>
 
 
 </project>

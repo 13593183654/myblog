@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-web/blog-v1-admin-web/blog-v1-admin-web.iml" filepath="$PROJECT_DIR$/blog-v1-web/blog-v1-admin-web/blog-v1-admin-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-api/blog-v1-api.iml" filepath="$PROJECT_DIR$/blog-v1-api/blog-v1-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-base/blog-v1-base.iml" filepath="$PROJECT_DIR$/blog-v1-base/blog-v1-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-base/blog-v1-common/blog-v1-common.iml" filepath="$PROJECT_DIR$/blog-v1-base/blog-v1-common/blog-v1-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-docs/blog-v1-docs.iml" filepath="$PROJECT_DIR$/blog-v1-docs/blog-v1-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-base/blog-v1-entity/blog-v1-entity.iml" filepath="$PROJECT_DIR$/blog-v1-base/blog-v1-entity/blog-v1-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-base/blog-v1-mapper/blog-v1-mapper.iml" filepath="$PROJECT_DIR$/blog-v1-base/blog-v1-mapper/blog-v1-mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-service/blog-v1-service.iml" filepath="$PROJECT_DIR$/blog-v1-service/blog-v1-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-temp/blog-v1-temp.iml" filepath="$PROJECT_DIR$/blog-v1-temp/blog-v1-temp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-api/blog-v1-user-api/blog-v1-user-api.iml" filepath="$PROJECT_DIR$/blog-v1-api/blog-v1-user-api/blog-v1-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-service/blog-v1-user-service/blog-v1-user-service.iml" filepath="$PROJECT_DIR$/blog-v1-service/blog-v1-user-service/blog-v1-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-web/blog-v1-web.iml" filepath="$PROJECT_DIR$/blog-v1-web/blog-v1-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myblog.iml" filepath="$PROJECT_DIR$/.idea/myblog.iml" />
     </modules>

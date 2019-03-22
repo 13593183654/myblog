@@ -6,21 +6,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="blog-v1-api" />
-        <module name="blog-v1-base" />
+        <module name="blog-v1-admin-web" />
+        <module name="blog-v1-common" />
         <module name="blog-v1-docs" />
+        <module name="blog-v1-entity" />
+        <module name="blog-v1-mapper" />
         <module name="blog-v1-service" />
         <module name="blog-v1-temp" />
+        <module name="blog-v1-user-api" />
+        <module name="blog-v1-user-service" />
         <module name="blog-v1-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="blog-v1-admin-web" target="1.8" />
       <module name="blog-v1-api" target="1.8" />
       <module name="blog-v1-base" target="1.8" />
+      <module name="blog-v1-common" target="1.8" />
       <module name="blog-v1-docs" target="1.8" />
+      <module name="blog-v1-entity" target="1.8" />
+      <module name="blog-v1-mapper" target="1.8" />
       <module name="blog-v1-service" target="1.8" />
       <module name="blog-v1-temp" target="1.8" />
+      <module name="blog-v1-user-api" target="1.8" />
+      <module name="blog-v1-user-service" target="1.8" />
       <module name="blog-v1-web" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="blog-v1-admin-web" options="-parameters" />
+      <module name="blog-v1-user-service" options="-parameters" />
+    </option>
   </component>
 </project>
