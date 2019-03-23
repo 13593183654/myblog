@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/blog-v1-base/blog-v1-entity/blog-v1-entity.iml" filepath="$PROJECT_DIR$/blog-v1-base/blog-v1-entity/blog-v1-entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-base/blog-v1-mapper/blog-v1-mapper.iml" filepath="$PROJECT_DIR$/blog-v1-base/blog-v1-mapper/blog-v1-mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-service/blog-v1-service.iml" filepath="$PROJECT_DIR$/blog-v1-service/blog-v1-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-v1-single/blog-v1-single.iml" filepath="$PROJECT_DIR$/blog-v1-single/blog-v1-single.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-temp/blog-v1-temp.iml" filepath="$PROJECT_DIR$/blog-v1-temp/blog-v1-temp.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-api/blog-v1-user-api/blog-v1-user-api.iml" filepath="$PROJECT_DIR$/blog-v1-api/blog-v1-user-api/blog-v1-user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-v1-service/blog-v1-user-service/blog-v1-user-service.iml" filepath="$PROJECT_DIR$/blog-v1-service/blog-v1-user-service/blog-v1-user-service.iml" />

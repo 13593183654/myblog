@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/blog-v1-docs/pom.xml" />
         <option value="$PROJECT_DIR$/blog-v1-service/blog-v1-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/blog-v1-web/blog-v1-admin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/blog-v1-single/pom.xml" />
       </list>
     </option>
   </component>

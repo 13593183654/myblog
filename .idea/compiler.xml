@@ -12,6 +12,7 @@
         <module name="blog-v1-entity" />
         <module name="blog-v1-mapper" />
         <module name="blog-v1-service" />
+        <module name="blog-v1-single" />
         <module name="blog-v1-temp" />
         <module name="blog-v1-user-api" />
         <module name="blog-v1-user-service" />
@@ -27,6 +28,7 @@
       <module name="blog-v1-entity" target="1.8" />
       <module name="blog-v1-mapper" target="1.8" />
       <module name="blog-v1-service" target="1.8" />
+      <module name="blog-v1-single" target="1.8" />
       <module name="blog-v1-temp" target="1.8" />
       <module name="blog-v1-user-api" target="1.8" />
       <module name="blog-v1-user-service" target="1.8" />
@@ -36,6 +38,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="blog-v1-admin-web" options="-parameters" />
+      <module name="blog-v1-single" options="-parameters" />
       <module name="blog-v1-user-service" options="-parameters" />
     </option>
   </component>
