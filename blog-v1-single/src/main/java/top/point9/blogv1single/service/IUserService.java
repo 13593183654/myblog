@@ -1,5 +1,7 @@
-package top.point9.blogv1single.controller;
+package top.point9.blogv1single.service;
 
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
 import top.point9.blogv1single.common.IBaseService;
 import top.point9.blogv1single.entity.User;
 
@@ -11,4 +13,5 @@ import top.point9.blogv1single.entity.User;
  * Time: 11:15
  */
 public interface IUserService extends IBaseService<User> {
+
 }

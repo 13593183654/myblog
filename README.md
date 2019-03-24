@@ -37,6 +37,8 @@ blog-v1-single MyBlog-单机版，即应用程序、数据库、文件等所有�
 - tomcat
 - thymeleaf
 - junit
+- Dubbo
+- FastDFS
 ### 2、前端
 - HTML5
 - CSS3
@@ -47,6 +49,11 @@ blog-v1-single MyBlog-单机版，即应用程序、数据库、文件等所有�
 - wangEditor
 - Uploadify
 - ECharts
+## 项目展示
+后台登录
+![后台登陆](http://www.point9.top/wp-content/uploads/2019/03/admin_login.png)
+后台首页
+![后台首页](http://www.point9.top/wp-content/uploads/2019/03/admin_index.png)
 ## 团队成员
 MyBlog开源博客系统，邀请您加入开发者团队，一起成长！
 
